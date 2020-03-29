@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.55.4] /home/renato/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/566c00b49db4f0cc4b855a3ccd17cded/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/27882dfeeb901c472de3ffe28d500087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/91565858363b0014dd15318573881cf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a14d25ca2f669344e611798d4810381a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63391c35010ee8d0eae31f9af614c50a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7e9c4cbc85a9f0bf1eb6b5051cff70fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/caf98ec90cdb4ef7d14e2aaa11fb384b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2fbf887e4638092051e8426bd3854b8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/renato/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0c485d51c93b86d80262cba545549150/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/848e7bed3f593ea2dd1ccfd4c0d04dda/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7533a8307e2e01bc550e603ead5dd162/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/55ee1560d3f37593950bd5f04c0781ff/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/renato/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/62618d09576914429056379731400389/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/c38e6033f6ea0d4d847ea29819858473/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1df61f486aea15b66ed468b9e1f30ada/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/5f8a5c9c18e4bd8bd4999a8e0018d5d0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/053b2ff119e59cdcb3bc363cac4660a6/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a9a133124fc20434e3bb0b9150f2a154/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f1f5bd1020538b420c99ec6a1922c2d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aed128ae0d950c4d7f800d964f40d267/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a234da557384a3248944d9084aacdb77/AndroidManifest.xml:17:1-22:12
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /home/renato/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/566c00b49db4f0cc4b855a3ccd17cded/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/renato/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/566c00b49db4f0cc4b855a3ccd17cded/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] /home/renato/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/566c00b49db4f0cc4b855a3ccd17cded/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/renato/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/566c00b49db4f0cc4b855a3ccd17cded/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/55ee1560d3f37593950bd5f04c0781ff/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/55ee1560d3f37593950bd5f04c0781ff/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/renato/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/62618d09576914429056379731400389/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/renato/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/62618d09576914429056379731400389/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.appcrud.MainActivity
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.4] /home/renato/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/566c00b49db4f0cc4b855a3ccd17cded/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/renato/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/566c00b49db4f0cc4b855a3ccd17cded/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/27882dfeeb901c472de3ffe28d500087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/27882dfeeb901c472de3ffe28d500087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/91565858363b0014dd15318573881cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/91565858363b0014dd15318573881cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a14d25ca2f669344e611798d4810381a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a14d25ca2f669344e611798d4810381a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63391c35010ee8d0eae31f9af614c50a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63391c35010ee8d0eae31f9af614c50a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7e9c4cbc85a9f0bf1eb6b5051cff70fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7e9c4cbc85a9f0bf1eb6b5051cff70fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/caf98ec90cdb4ef7d14e2aaa11fb384b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/caf98ec90cdb4ef7d14e2aaa11fb384b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2fbf887e4638092051e8426bd3854b8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/renato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2fbf887e4638092051e8426bd3854b8a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/renato/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0c485d51c93b86d80262cba545549150/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/renato/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0c485d51c93b86d80262cba545549150/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/848e7bed3f593ea2dd1ccfd4c0d04dda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/848e7bed3f593ea2dd1ccfd4c0d04dda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7533a8307e2e01bc550e603ead5dd162/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7533a8307e2e01bc550e603ead5dd162/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/55ee1560d3f37593950bd5f04c0781ff/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/55ee1560d3f37593950bd5f04c0781ff/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/c38e6033f6ea0d4d847ea29819858473/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/c38e6033f6ea0d4d847ea29819858473/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1df61f486aea15b66ed468b9e1f30ada/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1df61f486aea15b66ed468b9e1f30ada/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/5f8a5c9c18e4bd8bd4999a8e0018d5d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/5f8a5c9c18e4bd8bd4999a8e0018d5d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/053b2ff119e59cdcb3bc363cac4660a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/renato/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/053b2ff119e59cdcb3bc363cac4660a6/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a9a133124fc20434e3bb0b9150f2a154/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a9a133124fc20434e3bb0b9150f2a154/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f1f5bd1020538b420c99ec6a1922c2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f1f5bd1020538b420c99ec6a1922c2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aed128ae0d950c4d7f800d964f40d267/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aed128ae0d950c4d7f800d964f40d267/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a234da557384a3248944d9084aacdb77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/renato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a234da557384a3248944d9084aacdb77/AndroidManifest.xml:20:5-44
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /var/www/t/appcrud/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
