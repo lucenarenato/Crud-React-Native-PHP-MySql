@@ -21,7 +21,8 @@ if ($result->num_rows >0) {
  
  $item = $row;
  
- $json = json_encode($item);
+ //$json = json_encode($item, JSON_PRETTY_PRINT);
+$json = json_encode($item);
  
  }
  

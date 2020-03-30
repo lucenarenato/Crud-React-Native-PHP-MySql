@@ -1,4 +1,33 @@
 {
-  "name": "appcrud",
-  "displayName": "create react native web app"
+  "expo": {
+    "name": "rnCRUDApp",
+    "slug": "rnCRUDApp",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.1.11",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.renatolucena.app",
+      "buildNumber": "7"
+    },
+    "android": {
+      "package": "com.renatolucena.app",
+      "versionCode": 14
+    },
+    "description": "stable version"
+  }
 }
